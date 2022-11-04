@@ -8,7 +8,7 @@ if(isset($_POST['submit'])) {
       }
     }
     }
-?>
+?> 
 
 <form action="<?php $_PHP_SELF ?>"method="post">
 <input type="checkbox" name="color[]" value ="red">Red<br><br>
